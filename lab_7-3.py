@@ -31,7 +31,7 @@ print(docstring_result)
 # Test Case 2
 
 # Call the greeting function with additional text
-greeting_with_text = greeting() + " Additional Text"
+greeting_with_text = greeting() + " how are you "
 print(greeting_with_text)
 
 # Test Case 3
